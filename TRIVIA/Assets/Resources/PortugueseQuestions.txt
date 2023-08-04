@@ -1,0 +1,316 @@
+{
+   "questions": [
+          {
+            "question": "Qual é a língua nacional do Canadá?",
+            "answers": ["Inglês", "Holandês", "Francês", "Francês e Inglês"],
+            "correctAnswerID": 3,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual é o maior continente em tamanho?",
+            "answers": ["Ásia", "África", "Europa", "América do Norte"],
+            "correctAnswerID": 0,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Quem ganhou um Grammy de Álbum do Ano em 2022?",
+            "answers": ["Jon Batiste", "Billie Eilish", "Beyoncé", "Taylor Swift"],
+            "correctAnswerID": 0,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual aplicativo tem o maior número total de usuários?",
+            "answers": ["TikTok", "Snapchat", "Instagram", "Facebook"],
+            "correctAnswerID": 2,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual é a comida favorita do Garfield?",
+            "answers": ["Pizza", "Lasanha", "Hambúrguer", "Sanduíche"],
+            "correctAnswerID": 1,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual famoso inventor inventou o telefone?",
+            "answers": ["Thomas Edison", "Benjamin Franklin", "Alexander Graham Bell", "Nikola Tesla"],
+            "correctAnswerID": 2,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Quantos lados tem um hexágono?",
+            "answers": ["5", "6", "7", "8"],
+            "correctAnswerID": 1,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Em qual cidade italiana você pode encontrar o Coliseu?",
+            "answers": ["Veneza", "Roma", "Nápoles", "Milão"],
+            "correctAnswerID": 1,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Do que a Arábia Saudita é o maior produtor?",
+            "answers": ["Petróleo", "Carvão", "Café", "Bambu"],
+            "correctAnswerID": 0,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Em que ano dos anos 90 Friends estreou?",
+            "answers": ["1992", "1995", "1994", "1991"],
+            "correctAnswerID": 2,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "O que representam as listras na bandeira americana?",
+            "answers": ["Os estados dos EUA", "As treze colônias", "Os fundadores", "A data em que a constituição foi assinada"],
+            "correctAnswerID": 1,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual mulher detém o recorde de mais títulos de simples femininos de Wimbledon?",
+            "answers": ["Martina Navratilova", "Venus Williams", "Martina Hingis", "Serena Williams"],
+            "correctAnswerID": 0,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual ingrediente é o cerne de um prato salgado?",
+            "answers": ["Manteiga", "Sal", "Açúcar", "Pimenta"],
+            "correctAnswerID": 1,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Do que o Brasil é o maior produtor?",
+            "answers": ["Arroz", "Óleo", "Café", "Hambúrgueres"],
+            "correctAnswerID": 2,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Qual ingrediente é usado para fazer A la Crecy?",
+            "answers": ["Maçãs", "Bananas", "Batatas", "Cenouras"],
+            "correctAnswerID": 3,
+            "questionDifficulty": 0
+          },
+          {
+            "question": "Em que ano os Jonas Brothers fizeram seu retorno?",
+            "answers": ["2019", "2013", "2015", "2011"],
+            "correctAnswerID": 0,
+            "questionDifficulty": 0
+          },
+           {
+             "question": "Quem é o autor de autoajuda mais rico?",
+             "answers": ["Les Brown", "Tony Robbins", "Deepak Chopra", "Jack Canfield"],
+             "correctAnswerID": 1,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Em 1997, qual banda lançou o hit 'Barbie Girl'?",
+             "answers": ["ABBA", "Vanilla Ice", "Bjork", "Aqua"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Qual pássaro é o mais rápido em voo?",
+             "answers": ["Águia dourada", "Papa-léguas", "Avestruz", "Falcão peregrino"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Qual rei francês era apelidado de 'Rei Sol'?",
+             "answers": ["Louis XVI", "Carlos Magno", "Francisco I", "Luís XIV"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Quem foi o vice-presidente de George W. Bush?",
+             "answers": ["Kamala Harris", "Joe Biden", "Dick Cheney", "Al Gore"],
+             "correctAnswerID": 2,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Se você nascer em 1º de janeiro, qual é o seu signo?",
+             "answers": ["Escorpião", "Capricórnio", "Libra", "Áries"],
+             "correctAnswerID": 1,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Quantas esposas Henrique VIII teve?",
+             "answers": ["1", "3", "4", "6"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Em qual cidade está sediado o Juventus Football Club?",
+             "answers": ["Turim", "Barcelona", "Manchester", "Marselha"],
+             "correctAnswerID": 0,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "No programa de TV 'New Girl', qual atriz interpreta Jessica Day?",
+             "answers": ["Zooey Deschanel", "Kaley Cuoco", "Jennifer Aniston", "Alyson Hannigan"],
+             "correctAnswerID": 0,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Qual é o maior cânion do mundo?",
+             "answers": ["Desfiladeiro de Verdon, França", "Cânion do Rei, Austrália", "Grand Canyon, EUA", "Cânion Fjaðrárgljúfur, Islândia"],
+             "correctAnswerID": 2,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Qual é a extensão da fronteira entre os Estados Unidos e o Canadá?",
+             "answers": ["3.525 milhas", "4.525 milhas", "5.525 milhas", "6.525 milhas"],
+             "correctAnswerID": 2,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Qual é o maior vulcão ativo do mundo?",
+             "answers": ["Monte Etna", "Monte Vesúvio", "Monte Mauna Loa", "Monte Batur"],
+             "correctAnswerID": 2,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Quando Lênin morreu?",
+             "answers": ["21 de janeiro de 1924", "21 de janeiro de 1934", "21 de janeiro de 1944", "21 de janeiro de 1954"],
+             "correctAnswerID": 0,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Em qual estado dos EUA ocorreu o Julgamento do Macaco de Scopes?",
+             "answers": ["Maryland", "Dakota do Sul", "Indiana", "Tennessee"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Quando foi publicado o livro 'To Kill a Mockingbird' de Harper Lee?",
+             "answers": ["1950", "1960", "1970", "1980"],
+             "correctAnswerID": 1,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Em qual museu você pode encontrar a Mona Lisa de Leonardo da Vinci?",
+             "answers": ["Le Louvre", "Museu Uffizi", "British Museum", "Museu Metropolitano de Arte"],
+             "correctAnswerID": 0,
+             "questionDifficulty": 1
+           },
+           {
+             "question": "Em qual cidade você pode encontrar o Museu do Prado?",
+             "answers": ["Buenos Aires", "Barcelona", "Santiago", "Madri"],
+             "correctAnswerID": 3,
+             "questionDifficulty": 1
+           },
+               {
+                 "question": "Quando Salt Lake City sediou os Jogos Olímpicos de Inverno?",
+                 "answers": ["1992", "1998", "2002", "2008"],
+                 "correctAnswerID": 2,
+                 "questionDifficulty": 1
+               },
+               {
+                 "question": "Na série 'The Big Bang Theory', qual é o nome da vizinha de Sheldon e Leonard?",
+                 "answers": ["Penny", "Patty", "Lilly", "Jessie"],
+                 "correctAnswerID": 0,
+                 "questionDifficulty": 1
+               },
+               {
+                 "question": "Quando Hitler invadiu a Polônia?",
+                 "answers": ["1º de setembro de 1939", "11 de novembro de 1939", "8 de maio de 1940", "1º de dezembro de 1940"],
+                 "correctAnswerID": 0,
+                 "questionDifficulty": 1
+               },
+               {
+                 "question": "Qual país não faz fronteira com a Romênia?",
+                 "answers": ["Ucrânia", "Bulgária", "Hungria", "Polônia"],
+                 "correctAnswerID": 3,
+                 "questionDifficulty": 1
+               },
+               {
+                 "question": "De qual país é o jogador de futebol Cristiano Ronaldo?",
+                 "answers": ["Espanha", "Brasil", "Uruguai", "Portugal"],
+                 "correctAnswerID": 3,
+                 "questionDifficulty": 1
+               },
+                {
+                  "question": "Se você nascer em 1º de janeiro, qual é o seu signo?",
+                  "answers": ["Escorpião", "Capricórnio", "Libra", "Áries"],
+                  "correctAnswerID": 1,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quantas esposas Henrique VIII teve?",
+                  "answers": ["1", "3", "4", "6"],
+                  "correctAnswerID": 3,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quem pintou 'Moça com Brinco de Pérola'?",
+                  "answers": ["Johannes Vermeer", "Vincent Van Gogh", "Leonardo da Vinci", "Sandro Botticelli"],
+                  "correctAnswerID": 0,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quantos elementos existem na tabela periódica?",
+                  "answers": ["98", "108", "118", "128"],
+                  "correctAnswerID": 2,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Qual elemento químico tem Ag como símbolo?",
+                  "answers": ["Ouro", "Prata", "Ferro", "Carbono"],
+                  "correctAnswerID": 1,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Qual é a altura do Monte Everest?",
+                  "answers": ["5.849 m", "6.849 m", "7.849 m", "8.849 m"],
+                  "correctAnswerID": 3,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Qual é a montanha mais alta do Japão?",
+                  "answers": ["Monte Tate", "Monte Kita", "Monte Fuji", "Monte Yari"],
+                  "correctAnswerID": 2,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quantos anos Nelson Mandela passou na prisão?",
+                  "answers": ["7", "17", "27", "37"],
+                  "correctAnswerID": 2,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quem vive no seguinte endereço '10 Downing Street'?",
+                  "answers": ["Presidente dos EUA", "Presidente da França", "Primeiro Ministro do Reino Unido", "Primeiro Ministro da Escócia"],
+                  "correctAnswerID": 2,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Qual dos seguintes não é um personagem do desenho 'As Meninas Superpoderosas'?",
+                  "answers": ["Florzinha", "Borboletinha", "Docinho", "Lindinha"],
+                  "correctAnswerID": 1,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quantos ossos existem no corpo humano adulto?",
+                  "answers": ["186", "206", "286", "306"],
+                  "correctAnswerID": 1,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quem detém o recorde de maior número de arremessos de três pontos na história dos playoffs da NBA?",
+                  "answers": ["Kevin Durant", "LeBron James", "Kyrie Irving", "Stephen Curry"],
+                  "correctAnswerID": 3,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Qual é o nome do novo programa popular sobre professores do ensino fundamental?",
+                  "answers": ["Escola Avery", "Escola Alan", "Escola Abbott", "Escola Alvin"],
+                  "correctAnswerID": 2,
+                  "questionDifficulty": 2
+                },
+                {
+                  "question": "Quem marcou mais gols em partidas oficiais na história?",
+                  "answers": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Robert Lewandowski"],
+                  "correctAnswerID": 1,
+                  "questionDifficulty": 2
+                }
+   ]
+}
